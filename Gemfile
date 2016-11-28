@@ -8,7 +8,7 @@ gem 'jquery-rails'
 gem 'foundation-rails'
 gem 'font-awesome-sass'
 gem 'simple_form'
-gem 'plurky'
+gem 'devise'
 
 group :development, :test do
   gem 'pry-rails'
