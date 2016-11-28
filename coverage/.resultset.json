@@ -1,6 +1,23 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/shanahausman/challenges/side-projects/muselist/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/shanahausman/challenges/side-projects/muselist/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/shanahausman/challenges/side-projects/muselist/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
       "/Users/shanahausman/challenges/side-projects/muselist/app/channels/application_cable/channel.rb": [
         0,
         0,
@@ -18,10 +35,6 @@
         0,
         0
       ],
-      "/Users/shanahausman/challenges/side-projects/muselist/app/helpers/application_helper.rb": [
-        0,
-        0
-      ],
       "/Users/shanahausman/challenges/side-projects/muselist/app/jobs/application_job.rb": [
         0,
         0
@@ -31,21 +44,8 @@
         0,
         0,
         0
-      ],
-      "/Users/shanahausman/challenges/side-projects/muselist/app/models/application_record.rb": [
-        0,
-        0,
-        0
-      ],
-      "/Users/shanahausman/challenges/side-projects/muselist/app/models/user.rb": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
       ]
     },
-    "timestamp": 1480360524
+    "timestamp": 1480361498
   }
 }

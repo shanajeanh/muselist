@@ -1,5 +1,5 @@
 FactoryGirl.define do
-  factory :user do
+  factory :canon do
     name 'Fullmetal Alchemist'
 
     user
