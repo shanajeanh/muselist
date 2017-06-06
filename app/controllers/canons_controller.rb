@@ -1,0 +1,2 @@
+class CanonsController < ApplicationController
+end
